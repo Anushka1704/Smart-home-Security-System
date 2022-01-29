@@ -1,6 +1,3 @@
-# smart_home_security_sys
-Smart home security system project code and other files
-
 Installation and Configuration
 1. Download the Arduino IDE and Install - https://www.arduino.cc/en/main/software
 
